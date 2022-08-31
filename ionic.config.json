@@ -1,0 +1,10 @@
+{
+  "name": "app-cam",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
